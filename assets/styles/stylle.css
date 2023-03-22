@@ -2,9 +2,8 @@
 
 body {
   width: 100%;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   background: #f1f1f1f1;
-  
 }
 
 .col {
@@ -16,7 +15,7 @@ body {
   margin: 2rem auto;
 }
 
-/*fusion of .col & .sub-col*/
+/*fusion of .col & .sub-col */
 
 .col .sub-col {
   width: 100%;
@@ -29,7 +28,7 @@ body {
   background: #ffff;
   margin-left: 10px;
   color: #757575;
-  box-shadow: 0 4px 8px 0px #00000033, 0 6px 20px 0 #00000030;
+  box-shadow: 0 4px 8px 0px #0003, 0 6px 20px 0 #00000030;
 }
 
 .my-info {
@@ -54,6 +53,7 @@ body {
   margin-left: 20px;
   color: #75758b;
 }
+
 .text-icons i {
   color: #009680;
   margin-right: 15px;
@@ -66,12 +66,11 @@ body {
 }
 
 .asterisk i {
-  margin: 20px 20px;
-  color: #009680;
-  
+  margin: 20px;
+  color: #009680; 
 }
 
-/*skills*/
+/*skills */
 
 .progress-bar {
   width: 90%;
@@ -149,7 +148,6 @@ body {
 .spann {
   margin: 15px 0;
   padding: 20px;
-
 }
 
 .language {
@@ -200,18 +198,16 @@ body {
   border-radius: 15px;
 }
 
-/*work-experience*/
+/*work-experience */
 
 #work-experience {
   background: #fff;
   width: 100%;
   height: auto;
-  /* color: #757575; */
-  box-shadow: 0 4px 8px 0px #00000033, 0 6px 20px 0 #00000030;
+  box-shadow: 0 4px 8px 0 #0003, 0 6px 20px 0 #00000030;
   margin-top: -20px;
   margin-left: 10px;
-  padding-right: -40px;
-  
+  padding-right: -40px; 
 }
 
 .partie1 {
@@ -228,7 +224,6 @@ body {
 
 .partie1 h1 {
   padding: 20px 0 0 20px;
-
   color: #757575;
 }
 
@@ -245,7 +240,7 @@ body {
   margin-left: 20px;
 }
 
-/*education*/
+/*education */
 
 #education {
   background: #fff;
@@ -254,7 +249,7 @@ body {
   padding-right: 116px;
   padding-bottom: 176px;
   margin-left: 10px;
-  box-shadow: 0 4px 8px 0px #00000033, 0 6px 20px 0 #00000030;
+  box-shadow: 0 4px 8px 0 #0003, 0 6px 20px 0 #00000030;
 }
 
 #education i {
@@ -291,6 +286,7 @@ body {
 .iterms {
   padding-top: 10px;
 }
+
 .iterms p {
   padding-bottom: 10px;
 }
