@@ -48,7 +48,7 @@ body {
 .my-info h3 {
   position: absolute;
   bottom: 0;
-  color: #000 !important; 
+  color: #000 !important;
   left: 16px;
   font-size: 30px;
 }
@@ -227,20 +227,17 @@ body {
 .partie1 i {
   display: inline;
   margin: 20px 1rem;
+  color: #009680;
 }
 
 #work-experience {
   background: #fff;
   width: 100%;
-  height: fit-content; 
+  height: fit-content;
   box-shadow: 0 4px 8px 0 #0003, 0 6px 20px 0 #00000030;
   margin-bottom: 20px;
   line-height: 40px;
   padding: 0 1rem;
-}
-
-.partie1 i {
-  color: #009680;
 }
 
 .partie1 a {
@@ -280,6 +277,10 @@ body {
   box-shadow: 0 4px 8px 0 #0003, 0 6px 20px 0 #00000030;
 }
 
+.iterms i {
+  display: inline;
+}
+
 #education i {
   display: inline;
   color: #009680;
@@ -316,9 +317,7 @@ body {
   margin-bottom: 10px;
 }
 
-.iterms i {
-  display: inline;
-}
+
 
 .iterms a {
   color: unset;
