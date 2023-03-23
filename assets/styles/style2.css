@@ -224,12 +224,6 @@ body {
 
 /* work experience */
 
-.partie1 i {
-  display: inline;
-  margin: 20px 1rem;
-  color: #009680;
-}
-
 #work-experience {
   background: #fff;
   width: 100%;
@@ -238,6 +232,12 @@ body {
   margin-bottom: 20px;
   line-height: 40px;
   padding: 0 1rem;
+}
+
+.partie1 i {
+  display: inline;
+  margin: 20px 1rem;
+  color: #009680;
 }
 
 .partie1 a {
