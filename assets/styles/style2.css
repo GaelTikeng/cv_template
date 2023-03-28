@@ -47,21 +47,28 @@ body {
 
 .my-info h3 {
   position: absolute;
-  bottom: 0;
+  bottom: 16px;
   color: #000 !important;
   left: 16px;
   font-size: 30px;
+  font-weight: 400;
 }
 
 .text-icons {
   width: 100%;
   padding: 1rem;
   color: #75758b;
+  line-height: 1.5;
+}
+
+.asterisk {
+  padding-top: 10px;
 }
 
 .text-icons i,
 .asterisk i {
   display: inline;
+  padding: 10px 10px !important;
 }
 
 .text-icons p,
@@ -74,7 +81,6 @@ body {
 }
 
 .fine-bare {
-  border: 1px solid #757575;
   width: calc(100% - 1rem);
   margin: 0 auto;
 }
